@@ -1,2 +1,0 @@
-# zhamall.github.io
-site
